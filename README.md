@@ -1,6 +1,22 @@
-Landing Page feita inspirada no projeto e-commerce de uma floricultura.
-Usei HTML,CSS e Java Script.  https://talitasouza26.github.io/Landing-Page-Flower/
 
+
+<h1>Landing page Floricultura</h1>
+
+  https://talitasouza26.github.io/Landing-Page-Flower/
+
+<h3> Tecnologias usadas
+  <ul>
+    <li>
+      HTML
+    </li>
+    <li>
+      CSS
+    </li>
+    <li>
+      JACASCRIPT
+    </li>
+  </ul>
+</h3>
 
 
 
